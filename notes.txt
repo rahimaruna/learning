@@ -9,3 +9,8 @@ git commant :
 	git commit -m "message"
 
 	git push origin branch_name
+
+
+
+	git clone linklinklinklink
+	git pull
